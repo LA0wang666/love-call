@@ -115,7 +115,7 @@
         <h2>hello？</h2>
         <div class="photo-frame">
             <!-- 将下面的图片URL替换为你的图片地址 -->
-            <img class="photo" src="https://i.postimg.cc/gjL5dbh7/image.png" alt="我们的照片">
+            <img class="photo" src="<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/QBJqNSXH/image.png' border='0' alt='image'/></a>" alt="我们的照片">
         </div>
 
         <p class="message">long time no see...</p>
