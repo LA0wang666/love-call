@@ -115,7 +115,7 @@
         <h2>hello？</h2>
         <div class="photo-frame">
             <!-- 将下面的图片URL替换为你的图片地址 -->
-            <img class="photo" src="https://phototj.photo.store.qq.com/psc?/V11hQB6t2VKUPe/bqQfVz5yrrGYSXMvKr.cqWrObVf4gh0Xhv*SJv1Xc4pJ7bsn4NMtR85PILRKJbH8XG1yd7Z4JRYrf.z*yYLm8srT8oSPykHrLa5*gerdIU4!/b&bo=QAZgCUAGYAkWECA!&rf=viewer_311" alt="我们的照片">
+            <img class="photo" src="[[https://phototj.photo.store.qq.com/psc?/V11hQB6t2VKUPe/bqQfVz5yrrGYSXMvKr.cqWrObVf4gh0Xhv*SJv1Xc4pJ7bsn4NMtR85PILRKJbH8XG1yd7Z4JRYrf.z*yYLm8srT8oSPykHrLa5*gerdIU4!/b&bo=QAZgCUAGYAkWECA!&rf=viewer_311](https://i.postimg.cc/gjL5dbh7/image.png)](https://i.postimg.cc/gjL5dbh7/image.png)" alt="我们的照片">
         </div>
 
         <p class="message">long time no see...</p>
