@@ -125,9 +125,6 @@
 
     <script>
         function callLove(choice) {
-            // 替换为你的电话号码（记得加国际区号，比如中国：+86）
-            const phoneNumber = '+8613800138000';  // 替换成你的手机号
-            
             let message = '';
             if (choice === 'yes') {
                 message = '哈，给我打电话！';
@@ -136,7 +133,7 @@
             }
             
             alert(message);
-            window.location.href = `tel:${phoneNumber}`;
+            window.location.href = 'tel:'; // 直接跳转到拨号界面
         }
     </script>
 </body>
